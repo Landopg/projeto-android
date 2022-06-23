@@ -70,7 +70,7 @@ nav{
 }
 nav > a{
     color:var(--cor1);
-    font-size: 0.7em;
+    font-size: 0.85em;
     text-decoration: none;
     padding: 10px;    
     transition-duration: 0.5s; 
